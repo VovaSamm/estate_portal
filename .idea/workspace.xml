@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c56f34ed-34e6-4f23-b51e-ac31121a720c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/estate_portal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exsample1/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exsample1/deals/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="c56f34ed-34e6-4f23-b51e-ac31121a720c" name="Changes" comment="поросто перезалил">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/deals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/deals/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/deals/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/deals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/deals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/deals/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/deals/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/deals/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/deals/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/deals/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/exsample1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/exsample1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/properties/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/properties/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/properties/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/properties/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/properties/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/properties/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exsample1/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/exsample1/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +29,30 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VovaSamm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VovaSamm/estate_portal.git&quot;,
+    &quot;accountId&quot;: &quot;2e9f9c9e-ad12-443c-a3d5-bc44a79c8e65&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -40,14 +62,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.settings.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Марина/PycharmProjects/estate_portal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;brash1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Марина/PycharmProjects/estate_portal&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.settings">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="estate_portal" />
@@ -115,10 +138,32 @@
       <option name="presentableId" value="Default" />
       <updated>1750868439813</updated>
     </task>
+    <task id="LOCAL-00001" summary="nedo jando tot database">
+      <option name="closed" value="true" />
+      <created>1750881960744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750881960744</updated>
+    </task>
+    <task id="LOCAL-00002" summary="поросто перезалил">
+      <option name="closed" value="true" />
+      <created>1750882513547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750882513547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nedo jando tot database" />
+    <MESSAGE value="поросто перезалил" />
+    <option name="LAST_COMMIT_MESSAGE" value="поросто перезалил" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
